@@ -168,9 +168,9 @@ Este proyecto demuestra:
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- LinkedIn: [tu-perfil](https://linkedin.com/in/antoniosolisp/)
-- GitHub: [tu-usuario](https://github.com/SolisPDev)
-- Email: tu-email@ejemplo.com
+- LinkedIn: [Antonio Solís Perales](https://linkedin.com/in/antoniosolisp/)
+- GitHub: [SolisPDev](https://github.com/SolisPDev)
+- Email: solispantonio@horizondevs.net
 
 ## 📄 Licencia
 
