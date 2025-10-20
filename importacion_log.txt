@@ -1,0 +1,20 @@
+[2025-10-20 15:34:42] === INICIO DE IMPORTACIÓN ===
+[2025-10-20 15:34:42] Fecha y hora: 20/10/2025 03:34:42 p. m.
+[2025-10-20 15:34:42] Archivo CSV: C:\proyectos\importadorCSV\productos.csv
+[2025-10-20 15:34:42] ✓ Archivo CSV encontrado
+[2025-10-20 15:34:44] ✓ Conexión a base de datos exitosa
+[2025-10-20 15:34:44] Total de registros en CSV: 7
+[2025-10-20 15:34:44] ACTUALIZADO - PROD001 - Precio actualizado: $19999.99 → $21895
+[2025-10-20 15:34:44] IGNORADO - Registro 2: PROD002 - Precio actual ($299.50) es mayor o igual. NO se actualiza.
+[2025-10-20 15:34:44] ACTUALIZADO - PROD003 - Precio actualizado: $955.00 → $975
+[2025-10-20 15:34:44] ACTUALIZADO - PROD004 - Precio actualizado: $3499.99 → $3780.99
+[2025-10-20 15:34:44] IGNORADO - Registro 5: PROD005 - Precio actual ($599.00) es mayor o igual. NO se actualiza.
+[2025-10-20 15:34:44] IGNORADO - Registro 6: PR0D017 - Precio actual ($95.00) es mayor o igual. NO se actualiza.
+[2025-10-20 15:34:44] NUEVO - Registro 7: PROD069 - Conector impresora generico ($750) insertado correctamente
+[2025-10-20 15:34:44] --- RESUMEN ---
+[2025-10-20 15:34:44] Productos nuevos: 1
+[2025-10-20 15:34:44] Productos actualizados: 3
+[2025-10-20 15:34:44] Productos ignorados: 3
+[2025-10-20 15:34:44] Registros con error: 0
+[2025-10-20 15:34:44] === FIN DE IMPORTACIÓN ===
+

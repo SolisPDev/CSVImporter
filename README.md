@@ -116,10 +116,10 @@ Ejemplo de log:
 ## 🎨 Capturas de Pantalla
 
 ### Ejecución Exitosa
-![image](https://github.com/user-attachments/assets/ejemplo-ejecucion.png)
+![image](https://github.com/SolisPDev/CSVImporter/blob/main/pantalla1.jpg)
 
 ### Validación de Duplicados
-![image](https://github.com/user-attachments/assets/ejemplo-duplicados.png)
+![image](https://github.com/SolisPDev/CSVImporter/blob/main/log_image.jpg)
 
 ## 🔧 Personalización
 
